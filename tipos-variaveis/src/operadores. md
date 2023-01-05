@@ -1,0 +1,31 @@
+/* Operadores unarios:
+        
+         * = atribuição
+         * == comparação
+         * / divide 
+         * * multiplica
+         * % modulo
+         * ++ incremento
+         * -- decremento
+         *
+         */
+
+Operadores ternários
+
+<expressao> ? <T> : <F>
+
+Condicionais
+
+if ()
+    <>
+else if ()
+    <>
+else
+    <>
+
+Operadores Lógica
+
+&&  and
+|| or  
+
+
